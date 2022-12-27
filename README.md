@@ -1,12 +1,31 @@
+# Welcome to my github! 👋
 
-<h2> Hey there! I'm b00123.</h2>
+<div align="center">
+	<img src="https://raw.githubusercontent.com/b00123/b00123/master/intro.gif">
+</div>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## What I know :computer:
+- **Competitive Programming**
+	- Python ❤️
+	- C++
+	- Some Java
+- **Frontend Development**
+	- HTML, CSS and Javascript :white_check_mark:
+	- Bootstrap
+	- React with Redux :electron:
+	- React Native
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks..
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+## What I want to do next :thinking:
+- Backend Development (to become a Full-Stack developer)
+- At least delve into AI and ML.
+- Unlock the secret to the universe :rofl:
 
-[![b00123's github stats](https://github-readme-stats.vercel.app/api?username=b0123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/b00123)
+## Reach me 
+[![Github](https://img.shields.io/github/followers/b00123?label=Follow&style=social)](https://github.com/b00123)
 
-<br/>
+
+### Interesting stats
+
+![b00123 stats](https://github-readme-stats.vercel.app/api?username=b00123&show_icons=true)
+
+
