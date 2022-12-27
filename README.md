@@ -24,7 +24,7 @@
 [![Github](https://img.shields.io/github/followers/b00123?label=Follow&style=social)](https://github.com/b00123)
 
 
-### Interesting stats
+### My stats
 
 ![b00123 stats](https://github-readme-stats.vercel.app/api?username=b00123&show_icons=true)
 
