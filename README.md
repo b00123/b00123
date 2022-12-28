@@ -9,11 +9,6 @@
 	- Python ❤️
 	- C++
 	- Some Java
-- **Frontend Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
-	- React Native
 
 ## What I want to do next :thinking:
 - Backend Development (to become a Full-Stack developer)
@@ -26,7 +21,7 @@
 ## Views
 ![](https://komarev.com/ghpvc/?username=b00123)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,vue)](https://skillicons.dev)
 
 ### My stats
 
