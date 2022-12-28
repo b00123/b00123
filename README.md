@@ -26,7 +26,7 @@
 ## Views
 ![](https://komarev.com/ghpvc/?username=b00123)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c++,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c#,python)](https://skillicons.dev)
 
 ### My stats
 
