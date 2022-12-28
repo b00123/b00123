@@ -26,7 +26,6 @@
 ## Views
 ![](https://komarev.com/ghpvc/?username=b00123)
 
-## information
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### My stats
